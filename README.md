@@ -1,8 +1,8 @@
-### Simple-Phone-Book-App-with-HashTables
+## Simple-Phone-Book-App-with-HashTables
 
-## HOW TO USE THE PHONE BOOK
+# HOW TO USE THE PHONE BOOK
 
-# Add Unique Phone Numbers
+ Add Unique Phone Numbers
 
 `
 let JosephPhoneBook = new PhoneBook ()
@@ -23,13 +23,13 @@ JosephPhoneBook.AddPhoneNumber(musaContact)
 JosephPhoneBook.AddPhoneNumber(chisomContact)
 `
 
-# get list of phone numbers
+ get list of phone numbers
 
 `
 JosephPhoneBook.GetPhoneList()
 `
 
-# Get unique phone details using the phone number
+ Get unique phone details using the phone number
 
 `
 JosephPhoneBook.getPhoneNumber('08033273192')
