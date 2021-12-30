@@ -1,4 +1,5 @@
 ## Simple-Phone-Book-App-with-HashTables
+I used Hash-Tables to achieve a better Time Complexity. I also used double hashing to reduce index collision.
 
 # HOW TO USE THE PHONE BOOK
 
