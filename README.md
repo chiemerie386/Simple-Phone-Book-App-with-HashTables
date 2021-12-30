@@ -4,7 +4,7 @@
 
  # Add Unique Phone Numbers
 
-`
+```javascript
 let JosephPhoneBook = new PhoneBook ()
 
 let musaContact= {
@@ -21,16 +21,16 @@ let chisomContact= {
 
 JosephPhoneBook.AddPhoneNumber(musaContact)
 JosephPhoneBook.AddPhoneNumber(chisomContact)
-`
+```
 
  # Get list of phone numbers
 
-`
+```javascript
 JosephPhoneBook.GetPhoneList()
-`
+```
 
  # Get unique phone details using the phone number
 
-`
+```javascript
 JosephPhoneBook.getPhoneNumber('08033273192')
-`
+```
