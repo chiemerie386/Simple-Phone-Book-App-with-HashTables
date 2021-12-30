@@ -33,5 +33,5 @@ JosephPhoneBook.GetPhoneList()
  # Get unique phone details using the phone number
 
 ```javascript
-JosephPhoneBook.getPhoneNumber('08033273192')
+JosephPhoneBook.GetPhoneNumber('08033273192')
 ```
